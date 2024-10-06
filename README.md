@@ -1,5 +1,5 @@
 # ASL Real-Time Recognition with Text-to-Speech
-**Overview**
+**Overview**\n
 This project implements a real-time American Sign Language (ASL) recognition system using a trained neural network model and MediaPipe for hand detection.
 **Features**
 Real-time ASL recognition using a webcam.
